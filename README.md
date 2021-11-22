@@ -1,2 +1,2 @@
 # ClubInfo
-Test using https://my-json-server.typicode.com/EventManagerGroup/UserInfo/clubs .
+Test using https://my-json-server.typicode.com/EventManagerGroup/ClubInfo/clubs .
